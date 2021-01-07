@@ -4,4 +4,12 @@ Layer 7 DDOS attack
 ### KULLANIMI 
 ***PYTHON 3***
 ***
-git clone
+git clone https://github.com/MarsLayer7
+***
+cd MarLayer7
+***
+python3 layer7proxy.py
+***
+python3 marslayer7.py
+***
+
