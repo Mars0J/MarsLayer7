@@ -6,7 +6,7 @@ Layer 7 DDOS attack
 ***
 git clone https://github.com/MarsLayer7
 ***
-cd MarLayer7
+cd MarsLayer7
 ***
 python3 layer7proxy.py
 ***
@@ -20,7 +20,7 @@ Sorumluluk Sizin Üstünüzedir
 
 ### SÖZ
 
-Hiç Birşey İmkansız Değildir        -Mars0J
+Hiç Birşey İmkansız Değildir        -Mars
 
 ******
 
