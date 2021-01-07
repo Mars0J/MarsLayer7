@@ -20,7 +20,7 @@ Sorumluluk Sizin Üstünüzedir
 
 ### SÖZ
 
-HİÇ BİRŞEY İMKANSIZ DEĞİLDİR -Mars0J
+Hiç Birşey İmkansız Değildir        -Mars0J
 
 ******
 
