@@ -13,3 +13,14 @@ python3 layer7proxy.py
 python3 marslayer7.py
 ***
 
+## KÖTÜYE KULLANIM BİLDİRİ
+
+Bu Script Kötü Amaçlı Kullanılması için Yapılmamıştır
+Sorumluluk Sizin Üstünüzedir 
+
+### SÖZ
+
+HİÇ BİRŞEY İMKANSIZ DEĞİLDİR -Mars0J
+
+******
+
