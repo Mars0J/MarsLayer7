@@ -20,7 +20,9 @@ Sorumluluk Sizin Üstünüzedir
 
 ### SÖZ
 
-Hiç Birşey İmkansız Değildir        -Mars
+Hiç Birşey İmkansız Değildir                                      
+
+-Mars
 
 ******
 
