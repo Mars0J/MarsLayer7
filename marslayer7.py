@@ -7,6 +7,7 @@ import threading
 import random
 import re
 import urllib.request
+import time
 import os
 import sys
 from bs4 import BeautifulSoup
